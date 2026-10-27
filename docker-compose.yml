@@ -1,0 +1,20 @@
+services:
+  mc-cyberverse-app:
+    build: .
+    container_name: mc-cyberverse-app
+    restart: unless-stopped
+    env_file: .env
+    expose:
+      - '8000'
+    networks:
+      - mc-net
+    security_opt:
+      - no-new-privileges:true
+    read_only: true
+    tmpfs:
+      - /tmp
+    pids_limit: 150
+    mem_limit: 512m
+networks:
+  mc-net:
+    external: true

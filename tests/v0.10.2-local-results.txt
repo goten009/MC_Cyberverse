@@ -1,0 +1,77 @@
+﻿PASS expresiones ransomware
+PASS IA y datos
+PASS multisede
+PASS cantidades explícitas
+PASS múltiples necesidades
+PASS negaciones
+PASS ambigüedad
+PASS sin tecnicismos
+PASS desconocidos y contradicciones
+PASS validación y entrada inerte
+PASS ausencia de APIs de interpretación
+PASS merge conserva necesidades, controles y fabricantes
+PASS sin fabricante automático
+TOTAL 13
+PASS el cliente tiene problemas con ramsomware
+PASS Nos preocupa el ransonware
+PASS Necesitamos protección contra ransomwere
+PASS Mi cliente teme que le secuestren toda su información
+PASS Le cifraron todos los documentos
+PASS Piden un rescate por los datos
+PASS Un empleado abre correos muy sospechosos
+PASS Tenemos ataques de phising
+PASS Los usuarios suben documentos de la empresa a chat gpt
+PASS Están pegando datos del cliente en ChatGPT
+PASS Las sucursales tienen cortes constantes de internet
+PASS Necesitamos conectar nuestras oficinas
+PASS Los empleados trabajan desde sus casas
+PASS Queremos controlar los accesos de los empleados
+PASS Quiero proteger el portal web de la empresa
+PASS Necesitan monitorear las amenazas por la noche
+PASS Queremos recuperar toda nuestra información
+PASS No tenemos copias de seguridad
+PASS No contamos con backup
+PASS No queremos sufrir ransomware
+PASS 12 sedes con problemas de conectividad, phising y documentos en chatgpt
+PASS No necesitamos ramsomware ni phising
+PASS No tenemos problemas con ransomware
+PASS Sin ataques de phishing
+PASS No usamos chat gpt
+PASS Se cae el portal de la empresa
+PASS La página está lenta y no sabemos por qué
+PASS El software de contabilidad está fallando
+PASS Necesito organizar las oficinas
+TOTAL 29
+PASS adaptador utiliza render original y acumula necesidades
+PASS conserva cantidades, controles y fabricantes; IA pendiente
+PASS ambigüedad bloquea construcción
+PASS texto exacto de captura habilita construcción y simulación ransomware
+PASS un clic genera SVG, enlaces, controles, contexto 8 sedes y simulación ransomware
+PASS simulación original avanza después del diseño automático
+PASS necesidades combinadas producen mesh real con cuatro sedes, IA pendiente y exclusión EDR preservada
+PASS aclaración interactiva DDoS modifica arquitectura solo tras respuesta explícita
+TOTAL 4 integraciones base; cobertura adicional de portafolio a continuación
+PASS 39 productos: reconocimiento, propuesta, SVG y escenario mediante motor completo
+PASS captura SASE: cuatro sedes y alternativas FortiSASE / Cato, sin marca automática
+PASS alternativa elegida cambia plantilla real a Cato Socket / PoPs
+PASS datos en IA → alternativas pertinentes; elegir Sophos añade su requisito EDR al motor
+PASS agentes IA → Guardian / Cato según alcance modelado
+PASS 36 problemáticas sin nombres de productos producen alternativas del directorio
+PASS negaciones de capacidades y productos no construyen propuestas
+PASS Wi-Fi no se asocia a WAF por semejanza del nombre
+PASS SSE conserva conectividad existente sin agregar SD-WAN
+PASS un clic genera SVG, enlaces, controles, contexto 8 sedes y simulación ransomware
+PASS simulación original avanza después del diseño automático
+PASS necesidades combinadas producen mesh real con cuatro sedes, IA pendiente y exclusión EDR preservada
+PASS aclaración interactiva DDoS modifica arquitectura solo tras respuesta explícita
+TOTAL 4 integraciones base; cobertura adicional de portafolio a continuación
+PASS 39 productos: reconocimiento, propuesta, SVG y escenario mediante motor completo
+PASS captura SASE: cuatro sedes y alternativas FortiSASE / Cato, sin marca automática
+PASS alternativa elegida cambia plantilla real a Cato Socket / PoPs
+PASS datos en IA → alternativas pertinentes; elegir Sophos añade su requisito EDR al motor
+PASS agentes IA → Guardian / Cato según alcance modelado
+PASS 36 problemáticas sin nombres de productos producen alternativas del directorio
+PASS negaciones de capacidades y productos no construyen propuestas
+PASS Wi-Fi no se asocia a WAF por semejanza del nombre
+PASS SSE conserva conectividad existente sin agregar SD-WAN
+PASS tres problemáticas genéricas de uso de IA producen alternativas pertinentes

@@ -1,0 +1,13 @@
+{
+  "name": "mc-cyberverse",
+  "version": "0.10.2",
+  "private": true,
+  "scripts": {
+    "test": "node tests/smart-language.cjs && node tests/smart-unit.cjs && node tests/smart-adapter.cjs && node tests/smart-engine.cjs && node tests/smart.cjs && node tests/browser.cjs && node tests/endpoint.cjs && node tests/cato.cjs && node tests/backbone.cjs && node tests/handoff.cjs",
+    "test:unit": "node tests/smart-language.cjs && node tests/smart-unit.cjs && node tests/smart-adapter.cjs && node tests/smart-engine.cjs",
+    "test:smart": "node tests/smart.cjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.56.0"
+  }
+}
